@@ -31,6 +31,7 @@ _Why do you have 1:1s with other people? What are you trying to get out of it?_
 ## Communication
 - Default to a slack message when possible. I check my email, but it's also easy for things to get lost in there sometimes. 
 - I may take some time to digest what I just heard, so if I don't have an opinion right off the bat don't think that I didn't hear what you said. I'm trying to process the info so I can reply in a valuable way. 
+- I'm a talker, and I know it. It's 100% ok to interrupt or redirect the convo if I go off on a tangent. I'm working on creating space for others and not dominating conversations. 
 
 ## Motivators
 _People are motivated by different things at work. When do you feel happy or accomplished? When do you feel demotivated? What makes you feel rewarded or recognized?_
